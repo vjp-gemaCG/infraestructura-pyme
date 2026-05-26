@@ -9,7 +9,10 @@ sudo apt install openssh-server
 ## Reglas UFW
 
 ```bash
-ufw allow from 192.168.1.0/24 to any port 22
-ufw allow 80/tcp
-ufw allow 443/tcp
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw allow 22/tcp
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
+sudo ufw enable
 ```
