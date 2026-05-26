@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- Alumno A: TU_NOMBRE
-- Alumno B: TU_NOMBRE
+- Alumno A: Gema
+- Alumno B: Robin
 
 ## Objetivo
 
