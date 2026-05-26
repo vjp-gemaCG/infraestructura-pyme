@@ -13,6 +13,6 @@ MySQL
 | Software | Versión | Función |
 |----------|---------|---------|
 | Ubuntu | 22.04 | Sistema operativo |
-| Apache | 2.4.57 | Servidor web |
+| Apache | 2.4.60 | Servidor web |
 | PHP | 8.2 | Backend |
 | MySQL | 8.0 | Base de datos |
